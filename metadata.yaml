@@ -1,0 +1,32 @@
+_repo: Le-sentiment-religieux_68872
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pène du Bois, Henri
+    aliases:
+    - Pene du Bois, Henri
+    - Du Bois, Henri Pène
+    - Bois, Henri Pène du
+    birthdate: 1858
+    deathdate: 1906
+    gutenberg_agent_id: '39675'
+    url: http://www.gutenberg.org/2009/agents/39675
+description: ''
+gutenberg_issued: '2022-08-30'
+identifiers:
+  gutenberg: '68872'
+language: fr
+pgterms:marc904: https://archive.org/details/MN41431ucmf_5
+pgterms:marc905: 20220725103001bois
+pgterms:marc906: '1900'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: France :Fischbacher,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le sentiment religieux
+url: http://www.gutenberg.org/ebooks/68872
